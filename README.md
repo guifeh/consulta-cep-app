@@ -17,7 +17,7 @@ O **Consulta CEP** é um aplicativo mobile desenvolvido em Kotlin com arquitetur
 ## 📥 Download do APK
 Você pode baixar a versão mais recente do aplicativo através do link abaixo:
 
-🔗 [Baixar o APK](https://guifeh/consulta-cep-app)
+🔗 [Baixar o APK](https://guifeh.github.io/consulta-cep-app/)
 
 ## 🛠️ Como Executar o Projeto
 1. Clone o repositório:
@@ -38,7 +38,7 @@ Você pode baixar a versão mais recente do aplicativo através do link abaixo:
 - Implementar testes unitários
 
 ## 👤 Autor
-Desenvolvido por [Seu Nome](https://www.linkedin.com/in/seu-usuario/)
+Desenvolvido por [Guilherme](https://www.linkedin.com/guilherme-fernandesgn/)
 
 ---
 
